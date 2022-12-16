@@ -1,6 +1,6 @@
 # Exercices-individuels-Ada-Tech-School
 
-Quelques exercices réalisés lors de mon cursus chez Ada Tech School : de mes tous premiers codes en JS vanilla sans gestion de HTML CSS à mes débuts en Python avec Tkinter pour l'interface graphique... Sans prétention, voilà un aperçu de mes premiers pas en code.
+Some conding exercises realized during my training at Ada Tech School: from my very first JS vanilla script without any HTML or CSS to self-taught Python using Tkinter to create a GUI... A glimpse into my first steps in code.
 
 
 
