@@ -1,5 +1,3 @@
-import java.lang.*;
-
 public class Comparing{
 	public static int addTwo (int a, int b) {
 		return a + b;		
